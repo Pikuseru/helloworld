@@ -1,9 +1,3 @@
-<h3 align="center">STOP WAR IN 🌻UKRAINE🌻!</h3>
-<p align="center">
-  <img src="https://github.com/gitendo/gitendo/blob/d91a0a18f414a008c908549328c0f9259bffb399/Russia_Terrorist_Country_480p.gif">
-</p>
-<h3 align="center">#FCKPTN</h3>
-
 # Hello Game Boy!
 This repo started as simple "Hello world!" for Gameboy (DMG) written in assembly language. Few stars later I thought I could start adding some other examples as well, including Game Boy Color (CGB). So here it is - new folder structure, makefiles for Windows / Linux and content that will gradually follow. Everything commented and ready to assemble and link with [RGBASM](https://github.com/rednex/rgbds). Currently it contains:
 
